@@ -35,7 +35,7 @@
 
 目前小程序已经通过审核，并且发布，大家可以体验下，在学习的过程中遇到问题，可以咨询我，微信号：jglxiao
 
-![Image text]( https://pic3.zhimg.com/80/v2-cc01f8996169f19e5d9314aabd699236_1440w.jpg)
+![Image text]( https://pic4.zhimg.com/80/v2-c6d64ebe2b09b6a965bd72fe59003473_1440w.jpg)
 
 
 # 云开发 quickstart
