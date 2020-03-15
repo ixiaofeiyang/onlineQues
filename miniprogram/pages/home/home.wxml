@@ -1,0 +1,27 @@
+<view class="page-home">
+    <view class="one" bindtap="goOne">
+        <view class="one-body">
+        <view class="top">单选练习</view>    
+        <view class="bottom">正确率{{rate1}}%</view>   
+        </view>
+ 
+    </view>
+    <view class="two" bindtap="goTwo">
+        <view class="two-body">
+        <view class="top">多选练习</view>    
+        <view class="bottom">正确率{{rate2}}%</view>  
+        </view>
+ 
+    </view>
+    <view class="three" bindtap="goThree">
+        <view class="three-body">
+        <view class="top">考试模式</view>    
+        <view class="bottom">最佳成绩{{highScore}}分</view>   
+        </view>
+    </view>
+    <view class="four" bindtap="goFour">挑战模式</view>
+    <view class="five" bindtap="goFive">错题重做</view>
+    <view class="six" bindtap="goSix">强化练习</view>
+    <view class="history" bindtap="goHistory">考试记录</view>
+    <view class="history" bindtap="go">待定</view>
+</view>
