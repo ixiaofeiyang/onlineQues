@@ -1,5 +1,0 @@
-<view class="page-challenge">
-    <view class="simple" bindtap="goSimple">简单难度</view>
-    <view class="middle" bindtap="goMiddle">普通难度</view>
-    <view class="hard" bindtap="goHard">困难难度</view>
-</view>

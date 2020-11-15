@@ -10,20 +10,11 @@ App({
         //   env 参数决定接下来小程序发起的云开发调用（wx.cloud.xxx）会默认请求到哪个云环境的资源
         //   此处请填入环境 ID, 环境 ID 可打开云控制台查看
         //   如不填则使用默认环境（第一个创建的环境）
-        // env: '',
+        // env: 'my-env-id',
         traceUser: true,
       })
     }
 
-    this.globalData = {
-      rate1: 0,
-      rate2: 0,
-      highScore: 0,
-      userInfo: {
-        avatarUrl: '/images/header.png',
-        nickName: '游客',
-
-      }
-    }
+    this.globalData = {}
   }
 })
